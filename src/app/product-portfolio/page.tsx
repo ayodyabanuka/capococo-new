@@ -134,7 +134,7 @@ const ProductPortfolio = () => {
           initial={{ opacity: 0, x: -300 }}
           whileInView={{ opacity: 1, x: 0 }}
           transition={{ ease: 'easeOut', duration: 1 }}
-          className='grid grid-cols-3 gap-4'
+          className='grid grid-cols-2 md:grid-cols-3 gap-4'
         >
           <div className='flex flex-col items-center justify-evenly text-sm'>
             <div className='flex flex-col font-bold text-3xl'>
@@ -162,6 +162,17 @@ const ProductPortfolio = () => {
             <div className='text-2xl font-bold text-center'>
               ELECTROLYTES IN KING COCONUT WATER
             </div>
+            <Image
+              src={'/portfolio3.png'}
+              alt={'portfolio1'}
+              loading='eager'
+              quality={100}
+              width={900}
+              height={900}
+              className='rounded-3xl'
+            />
+          </div>
+          <div className='flex md:hidden flex-col gap-2 items-center justify-center'>
             <Image
               src={'/portfolio3.png'}
               alt={'portfolio1'}
