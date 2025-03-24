@@ -257,13 +257,21 @@ const ProductPortfolio = () => {
           </motion.div>
           <motion.div>
             <Image
-              src={'/4.png'}
+              src={'/king_can.png'}
+              width={200}
+              quality={100}
+              className='scale-100  lg:hidden -rotate-12'
+              height={200}
+              alt={''}
+            />
+            <Image
+              src={'/king_can.png'}
               width={2000}
               quality={100}
-              className='scale-100 lg:scale-200'
+              className='scale-75 hidden lg:block -rotate-12'
               height={2000}
               alt={''}
-            ></Image>
+            />
           </motion.div>
         </motion.div>
         <motion.div
@@ -293,13 +301,21 @@ const ProductPortfolio = () => {
           </motion.div>
           <motion.div>
             <Image
-              src={'/2.png'}
+              src={'/tender_can.png'}
+              width={200}
+              quality={100}
+              className='scale-100 lg:hidden rotate-12'
+              height={200}
+              alt={''}
+            />
+            <Image
+              src={'/tender_can.png'}
               width={2000}
               quality={100}
-              className='scale-100 lg:scale-200'
+              className='scale-75 hidden lg:block rotate-12'
               height={2000}
               alt={''}
-            ></Image>
+            />
           </motion.div>
         </motion.div>
       </div>
