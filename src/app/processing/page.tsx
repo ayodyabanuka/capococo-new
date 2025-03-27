@@ -8,7 +8,7 @@ const Processing = () => {
     <div className=' mx-4 lg:mx-10 overflow-hidden'>
       <div className="hidden lg:flex flex-col my-10 rounded-3xl py-30 text-white gap-28 justify-center items-center bg-[url('/ourprocessback.png')] bg-no-repeat bg-cover">
         <div className='text-[40px] font-extrabold text-[#C1903C]'>
-          Craftmanship in Every Drop
+          Craftmanship in every Drop
         </div>
         <motion.div
           initial={{ opacity: 0, y: 180 }}
@@ -69,7 +69,7 @@ const Processing = () => {
             <div className='font-normal text-[20px] text-[#C1903C] '>
               Our dedicated quality assurance team ensure premium quality
               throughout the value chain from cultivation, through harvesting,
-              processing, tapping, and packing
+              processing, tapping, and packing.
             </div>
           </div>
         </motion.div>

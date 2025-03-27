@@ -56,8 +56,8 @@ const Sustainability = () => {
             Prevention of pollution and emissions to air, water and soil,
             environmental protection, and combating climate change by
             streamlining of farms, utilizing renewable and clean energy sources,
-            planting and/or keeping large trees to capture CO2, and using
-            beneficial crop rotation systems to retain the nutrients and
+            planting and/or keeping large trees to capture CO<sub>2</sub>, and
+            using beneficial crop rotation systems to retain the nutrients and
             fertility of the soil. Targeting to become carbon neutral.
           </div>
         </motion.div>

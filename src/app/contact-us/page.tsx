@@ -48,7 +48,7 @@ const ContactUs = () => {
       >
         <form
           onSubmit={onSubmit}
-          className='bg-white p-4 md:p-10 w-full rounded-3xl grid grid-cols-2 col-span-2 '
+          className='bg-white p-4 md:p-10 w-full rounded-3xl grid grid-cols-2 col-span-2'
         >
           <div className='grid col-span-2 text-center items-center place-items-center'>
             <div className='text-5xl font-extrabold text-[#C1903C]'>
