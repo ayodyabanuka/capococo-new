@@ -82,7 +82,7 @@ const Sustainability = () => {
           className='flex flex-col gap-5'
         >
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
-            Sustainable farming{' '}
+            Sustainable Farming{' '}
           </motion.div>
           <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Introducing, promotion of, and supporting organic and sustainable
@@ -96,7 +96,7 @@ const Sustainability = () => {
           className='flex flex-col gap-5'
         >
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
-            Community support
+            Community Support
           </motion.div>
           <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Provide support to rural farmer communities. Our business provides
@@ -114,7 +114,7 @@ const Sustainability = () => {
           className='flex flex-col gap-5'
         >
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
-            Water management{' '}
+            Water Management{' '}
           </motion.div>
           <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Water management – Irrigation system implementation, water treatment
@@ -128,7 +128,7 @@ const Sustainability = () => {
           className='flex flex-col gap-5'
         >
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
-            Human Rights, Social Responsibility & Gender equality{' '}
+            Human Rights, Social Responsibility & Gender Equality{' '}
           </motion.div>
           <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Employment through gender and physical ability equality, empowerment
