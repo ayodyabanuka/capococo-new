@@ -39,32 +39,31 @@ const ContactUs = () => {
     }
   };
   return (
-    <div>
+    <div className='mx-4 lg:mx-10 overflow-hidden'>
       <motion.div
         initial={{ opacity: 0, y: 180 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ ease: 'easeOut', duration: 1 }}
-        className='hidden text-black md:grid grid-cols-3 container my-10 gap-7 p-20 rounded-3xl h-[1097px]  bg-[#FFF4E2]'
+        className=' text-black grid  my-10 gap-7 p-4 lg:p-20 rounded-3xl h-[1097px]  bg-[#FFF4E2]'
       >
-        <div className="grid col-span-1  bg-[url('/getintouch.png')] rounded-3xl bg-cover "></div>
         <form
           onSubmit={onSubmit}
-          className='bg-white p-10 w-full rounded-3xl grid grid-cols-2 col-span-2 '
+          className='bg-white p-4 md:p-10 w-full rounded-3xl grid grid-cols-2 col-span-2 '
         >
           <div className='grid col-span-2 text-center items-center place-items-center'>
-            <div className='text-[55px] font-extrabold text-[#C1903C]'>
+            <div className='text-5xl font-extrabold text-[#C1903C]'>
               Get in Touch
             </div>
             <div className='font-bold text-[25px] text-[#C1903C] '>
               We like to hear from you!
             </div>
             <div className='font-normal text-[18px] w-2/3 text-[#C1903C] '>
-              Your feedback matters. Please share your questions and thoughts
-              and we are ready to assist you.
+              Your feedback matters. Please share your questions and thoughts.
+              We are ready to assist you.
             </div>
           </div>
 
-          <div className='grid col-span-2 grid-cols-2 gap-5 mt-10'>
+          <div className='grid col-span-2 grid-cols-1 md:grid-cols-2 gap-5 mt-10'>
             <div>
               <label
                 htmlFor='name'
@@ -126,7 +125,7 @@ const ContactUs = () => {
           </button>
         </form>
       </motion.div>
-      <motion.div
+      {/* <motion.div
         initial={{ opacity: 0, y: 180 }}
         whileInView={{ opacity: 1, y: 0 }}
         transition={{ ease: 'easeOut', duration: 1 }}
@@ -206,7 +205,7 @@ const ContactUs = () => {
             Send Message
           </button>
         </form>
-      </motion.div>
+      </motion.div> */}
     </div>
   );
 };

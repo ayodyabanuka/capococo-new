@@ -20,10 +20,10 @@ const ProductPortfolio = () => {
               <span className='font-bold'>Cultivation and processing:</span> We
               source premium quality tender coconuts and king coconuts from
               plantations close to the factories for immediate supply. Plucking
-              only the young and fresh nuts and efficient processing the factory
-              ensure premium freshness and quality. Tapping the coconut waters
-              on aluminium cans and glass bottles retains the refreshing taste
-              and ensure a long shelf life.
+              only the young and fresh nuts and efficient processing in the
+              factory ensure premium freshness and quality. Tapping the coconut
+              waters on aluminium cans and glass bottles retains the refreshing
+              taste and ensure a long shelf life.
             </div>
             <div>
               <span className='font-bold'>Our products:</span> We offer premium
@@ -74,12 +74,13 @@ const ProductPortfolio = () => {
               {' '}
               Our King Coconuts grow exclusively in Sri Lanka's tropical
               microclimate in rich soil. The nut is called Thambili in Singalese
-              which means orange color and they grow mostly in the wild without
-              any human interaction. King coconut is a different variety than
-              the green coconut which is available around the world. They are
-              primarily found in an area called the “coconut triangle” which
-              stretches between three cities in the island country. This means
-              that Capo Coco King Coconut Water is a single origin product.
+              which means orange color. King coconut palms grow mostly in the
+              wild without any human interaction. King coconut is a different
+              variety than the green coconut which is available around the
+              world. They are primarily found in an area called the “coconut
+              triangle” which stretches between three cities in the island
+              country. This means that Capo Coco King Coconut Water is a single
+              origin product.
             </div>
             <div>
               <span className='font-bold'>Sole purpose: </span> The King coconut
@@ -92,24 +93,25 @@ const ProductPortfolio = () => {
               electrolytes and 35% less sugar than other coconut waters
             </div>
             <div>
-              <span className='font-bold'>Age: </span> King Coco is made from
-              large, mature, eight months old, bright orange colored king
-              coconuts. They are harvested with extreme care, by hand and
-              lowered from the tall palm trees using ropes and pulleys to avoid
-              damaging the precious fruits. Most other coconut waters come from
-              unripe green coconuts which are harvested when they are just 3 – 4
-              months old and this is done to prevent more of the water turning
-              into coconut flesh.
+              <span className='font-bold'>Age: </span> Capo Coco King Coconut
+              Water is made from large, mature, eight months old, bright orange
+              colored king coconuts. They are harvested with extreme care by
+              hand and lowered from the tall palm trees using ropes and pulleys
+              to avoid damaging the precious nuts. Most other coconut waters
+              come from either concentrates, mature coconuts, or unripe green
+              coconuts which are harvested when they are just 3 – 4 months old
+              which is done to prevent more of the water turning into coconut
+              flesh.
             </div>
             <div>
               <span className='font-bold'>
                 From tree to table – a life cycle approach:{' '}
               </span>{' '}
               Our cultivation is organic and sustainable. We use the nut shells
-              for compost and as potentially growing medium for various plants.
-              We aim at creating zero unutilized waste and emissions. Our
-              packaging is made of recyclable materials. All in all, we aim at
-              leaving a minimal environment footprint.
+              for compost or as growing medium for various plants. We aim at
+              creating zero unutilized waste and emissions. Our packaging is
+              made of recyclable materials. We aim to leaving a minimal
+              environment footprint.
             </div>
           </div>
         </motion.div>
@@ -197,9 +199,9 @@ const ProductPortfolio = () => {
             </div>
             <div className='flex flex-col'>
               <span className='underline font-bold'>MAGNESIUM</span> Acts as a
-              co-factor in many of the body’s enzyme activities Retains good
-              muscle function Retains healthy bone structure Reduces fatigue and
-              exthaustion
+              co-factor in many of the body’s enzyme activities <br /> Retains
+              good muscle function <br /> Retains healthy bone structure <br />{' '}
+              Reduces fatigue and exthaustion
             </div>
             <div className='flex flex-col'>
               <span className='underline font-bold'>BICARBONATE</span> Acts as a
@@ -219,7 +221,7 @@ const ProductPortfolio = () => {
             <div>
               King Coconuts are a rich source of B-complex vitamins, amino
               acids, and electrolytes, which are minerals like potassium,
-              calcium, sodium, magnesium, chloride and phosphates The liquid
+              calcium, sodium, magnesium, chloride and phosphates. The liquid
               within King Coconuts has more magnesium and calcium than an
               orange, and more potassium than a banana. It will naturally
               replenish the body’s loss of electrolytes by sweating during
@@ -253,16 +255,16 @@ const ProductPortfolio = () => {
               Immerse yourself in the royal realm of this beverage, a single
               origin product harvested in a tropical paradise. Our King Coconut
               water is more than just a beverage – it is an experience packed
-              with elctrolytes and nutrition that reflect the essence of the
+              with elctrolytes and nutrition that reflects the essence of the
               tropics. The ultimate organic energy booster with a unique taste
-              and multiple benefits
+              and multiple benefits.
             </div>
             <div className='my-6 text-lg'>
               <Link
                 href={'/product-portfolio/king-coconut'}
                 className='bg-transparent border  w-fit px-4 py-2 rounded-full hover:bg-white hover:text-[#C1903C]'
               >
-                Check more
+                Learn More
               </Link>
             </div>
           </motion.div>
@@ -297,7 +299,7 @@ const ProductPortfolio = () => {
             <div className='mt-9 text-sm md:text-lg'>
               Enjoy the natural refreshing and hydrating experience of tender
               coconut water, sourced directly from the green plantations that
-              dot the landscapes of Sri Lanka. With each sip you will feel the
+              cover the landscapes of Sri Lanka. With each sip you will feel the
               embrace of the warm breeze among the palm trees and appreciate the
               nature-given goodness this beverage embodies.
             </div>
@@ -306,7 +308,7 @@ const ProductPortfolio = () => {
                 href={'/product-portfolio/tender-coconut'}
                 className='bg-transparent border w-fit px-4 py-2 rounded-full hover:bg-white hover:text-green-700'
               >
-                Check more
+                Learn More
               </Link>
             </div>
           </motion.div>

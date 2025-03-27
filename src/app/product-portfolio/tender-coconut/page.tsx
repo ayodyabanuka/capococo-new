@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 const TenderCoconut = () => {
   return (
-    <div className='mx-4 lg:mx-10 overflow-hidden text-[#C1903C]'>
+    <div className='mx-4 lg:mx-10 overflow-hidden text-[#31a65a]'>
       <div className='grid grid-cols-1 md:grid-cols-3 gap-4 py-20'>
         <div className='flex flex-col items-center justify-center gap-5'>
           <Image

@@ -8,7 +8,7 @@ const Processing = () => {
     <div className=' mx-4 lg:mx-10 overflow-hidden'>
       <div className="hidden lg:flex flex-col my-10 rounded-3xl py-30 text-white gap-28 justify-center items-center bg-[url('/ourprocessback.png')] bg-no-repeat bg-cover">
         <div className='text-[40px] font-extrabold text-[#C1903C]'>
-          Craftsmanship in Every Drop
+          Craftmanship in Every Drop
         </div>
         <motion.div
           initial={{ opacity: 0, y: 180 }}
@@ -25,7 +25,7 @@ const Processing = () => {
               our dedicated harvesters handpick each King Coconut at the peak of
               nutrition. The King Coconuts need to be picked after 8 months at
               just the right time, to ensure the finest quality and purity in
-              every can.
+              every can or bottle.
             </div>
           </div>
           <Image
@@ -72,14 +72,6 @@ const Processing = () => {
               processing, tapping, and packing
             </div>
           </div>
-
-          <Image
-            src={'/craftmanshipinevery.png'}
-            width={350}
-            height={350}
-            alt={''}
-            className=''
-          ></Image>
         </motion.div>
         <motion.div
           initial={{ opacity: 0, y: 180 }}
@@ -99,10 +91,10 @@ const Processing = () => {
               Sealed with Care
             </div>
             <div className='font-normal text-[20px] text-[#C1903C] '>
-              Each can is a testament to our committment to quality. Capo Coco
-              is sealed with care, ensuring that the purity and freshness are
-              preserved from the moment of harvest until you take your first
-              sip.
+              Every can and bottle is a testament to our commitment to quality.
+              Capo Coco is sealed with care, ensuring that the purity and
+              freshness are preserved from the moment of harvest until you take
+              your first sip.
             </div>
           </div>
         </motion.div>

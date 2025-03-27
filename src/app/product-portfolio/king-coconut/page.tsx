@@ -54,8 +54,8 @@ const KingCoconut = () => {
                 alt={'portfolio1'}
                 loading='eager'
                 quality={100}
-                width={600}
-                height={600}
+                width={750}
+                height={750}
                 className=''
               />
             </div>
@@ -65,7 +65,7 @@ const KingCoconut = () => {
             nature. A healthy choice to stay refreshed and hydrated. This
             product is made in Sri Lanka – the home of King Coconut. Indigenous
             to Sri Lanka, this exclusive coconut is grown based on organic
-            principles and offer a smoother and richer taste and contains no
+            principles and offers a smoother and richer taste and contains no
             fat. King coconut water consists of natural sucrose, fructose, and
             glucose.
           </div>

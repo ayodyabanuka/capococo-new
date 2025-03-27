@@ -19,7 +19,7 @@ const Sustainability = () => {
             Our journey to create Capo Coco king coconut villages across the
             island
           </div>
-          <div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify lg:w-1/2 mx-4 lg:mx-0'>
+          <div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center lg:w-1/2 mx-4 lg:mx-0'>
             Unveiling Sri Lanka&apos;s first-ever King Coconut Village, a
             remarkable project stemming from our collaboration with The Coconut
             Research Institute of Sri Lanka and the Mahaweli Authority of Sri
@@ -34,7 +34,7 @@ const Sustainability = () => {
           initial={{ opacity: 0, y: 180 }}
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ ease: 'easeOut', duration: 1 }}
-          className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify mx-4 lg:mx-0'
+          className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center mx-4 lg:mx-0'
         >
           We put CSR and ESG on the forefront of our development. Green and
           socially responsible is the key for our business implementation.
@@ -52,7 +52,7 @@ const Sustainability = () => {
           <div className='text-3xl text-[#C1903C] font-bold'>
             Zero Concept Climate{' '}
           </div>
-          <div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Prevention of pollution and emissions to air, water and soil,
             environmental protection, and combating climate change by
             streamlining of farms, utilizing renewable and clean energy sources,
@@ -70,7 +70,7 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Zero Concept Waste
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Treat and recycle all waste generated or dispose for waste to energy
             solutions.
           </motion.div>
@@ -84,7 +84,7 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Sustainable farming{' '}
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Introducing, promotion of, and supporting organic and sustainable
             farm practice.
           </motion.div>
@@ -98,7 +98,7 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Community support
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Provide support to rural farmer communities. Our business provides
             contributions from several angles including water management and
             sustainable consumption of water, giving smallholder farmers offtake
@@ -116,7 +116,7 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Water management{' '}
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Water management – Irrigation system implementation, water treatment
             and purification, provide access to clean water.
           </motion.div>
@@ -130,7 +130,7 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Human Rights, Social Responsibility & Gender equality{' '}
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Employment through gender and physical ability equality, empowerment
             of women, paying fair rates for our raw materials and fair wages to
             the staffs and farmers.
@@ -143,9 +143,9 @@ const Sustainability = () => {
           className='flex flex-col gap-5'
         >
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
-            Corporate Governance:
+            Corporate Governance
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Our principles for good corporate governance aim to lay the
             foundation for long-term value creation, to the benefit of the
             stakeholders impacted by our business. Sustainability, transparency,
@@ -164,7 +164,7 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Packaging
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify  mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center  mx-4 lg:mx-0'>
             Our packaging shall satisfy the most stringent food safety measures.
             We strive to use recycled or recyclable materials.
           </motion.div>
@@ -178,12 +178,12 @@ const Sustainability = () => {
           <motion.div className='text-3xl text-[#C1903C] font-bold'>
             Certifications
           </motion.div>
-          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-justify mx-4 lg:mx-0'>
+          <motion.div className='font-normal text-lg md:text-2xl text-[#C1903C] text-left md:text-center mx-4 lg:mx-0'>
             We always strive to facilitate and obtain the highest standards of
             certificates, for all markets. For every brand, every product, and
             throughout the value chain. Factory certification: ISO 22000, FSSC
-            22000, Halal, CDA, HACCP Products: EU Flower, EU Eco Label, USDA
-            Organic, other market specific organic certifications
+            22000, Halal, CDA, HACCP. Products: EU Flower, EU Eco Label, USDA
+            Organic, other market specific organic certifications.
           </motion.div>
         </motion.div>
       </motion.div>

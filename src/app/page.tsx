@@ -40,8 +40,8 @@ export default function Home() {
             transition={{ ease: 'easeOut', duration: 1 }}
             className=' lg:p-20 flex flex-col text-center lg:text-left'
           >
-            <div className='font-extrabold text-5xl lg:text-7xl capitalize text-[#C1903C] lg:leading-[80px]'>
-              Pure organic goodness in every sip
+            <div className='font-extrabold text-5xl lg:text-7xl text-[#C1903C] lg:leading-[80px]'>
+              Pure Organic Goodness in every Sip
             </div>
             <div className='font-medium md:text-lg lg:text-[30px] mt-10 text-[#C1903C] leading-6 lg:leading-[35px] '>
               Hydrate and refresh with Capo Coco – produced by nature
@@ -257,8 +257,8 @@ export default function Home() {
             transition={{ ease: 'easeOut', duration: 1 }}
             className='mt-0 text-center md:text-start md:hidden bg-white/60 px-4  py-10 backdrop-blur-md rounded-3xl'
           >
-            <div className='font-extrabold text-4xl xl:text-[70px] capitalize text-[#C1903C] text-center lg:leading-[55px]'>
-              Pure organic goodness in every sip
+            <div className='font-extrabold text-4xl xl:text-[70px] text-[#C1903C] text-center lg:leading-[55px]'>
+              Pure Organic Goodness in every Sip
             </div>
             <div className='font-medium text-center text-[20px] md:text-justify mt-6 text-[#C1903C] leading-[30px] '>
               Hydrate and refresh with Capo Coco – produced by nature

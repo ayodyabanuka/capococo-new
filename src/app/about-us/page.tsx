@@ -31,7 +31,7 @@ const AboutUs = () => {
             className='px-4 lg:p-0 bg-white/5  rounded-3xl h-fit'
           >
             <div className='font-bold text-4xl lg:text-[60px] text-[#C1903C] lg:leading-[55px]'>
-              About Us
+              About us
             </div>
             <div className='font-light text-justify md:text-left text-lg lg:text-[28px] mt-3 lg:leading-[35px] text-[#C1903C]'>
               At the heart of our brand lies an extraordinary story of passion
