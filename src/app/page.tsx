@@ -43,7 +43,7 @@ export default function Home() {
             <div className='font-extrabold text-5xl lg:text-7xl text-[#C1903C] lg:leading-[80px]'>
               Pure Organic Goodness in every Sip
             </div>
-            <div className='font-medium md:text-lg lg:text-[30px] mt-10 text-[#C1903C] leading-6 lg:leading-[35px] '>
+            <div className='font-medium md:text-lg lg:text-[40px] mt-10 drop-shadow text-[#C1903C] leading-6 lg:leading-[35px] '>
               Hydrate and refresh with Capo Coco – produced by nature
             </div>
           </motion.div>
